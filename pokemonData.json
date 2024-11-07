@@ -1,0 +1,6227 @@
+[
+  {
+    "pokemonName": "이상해씨",
+    "pokemonType": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "이상해풀",
+    "pokemonType": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "이상해꽃",
+    "pokemonType": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "파이리",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "리자드",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "리자몽",
+    "pokemonType": [
+      "fire",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "꼬부기",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "어니부기",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "거북왕",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "캐터피",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "단데기",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "버터플",
+    "pokemonType": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "뿔충이",
+    "pokemonType": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "딱충이",
+    "pokemonType": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "독침붕",
+    "pokemonType": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "구구",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "피죤",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "피죤투",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "꼬렛",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "레트라",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "깨비참",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "깨비드릴조",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "아보",
+    "pokemonType": [
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "아보크",
+    "pokemonType": [
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "피카츄",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "라이츄",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "모래두지",
+    "pokemonType": [
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "고지",
+    "pokemonType": [
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "니드리나",
+    "pokemonType": [
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "니드퀸",
+    "pokemonType": [
+      "poison",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "니드리노",
+    "pokemonType": [
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "니드킹",
+    "pokemonType": [
+      "poison",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "삐삐",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "픽시",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "식스테일",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "나인테일",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "푸린",
+    "pokemonType": [
+      "normal",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "푸크린",
+    "pokemonType": [
+      "normal",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "주뱃",
+    "pokemonType": [
+      "poison",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "골뱃",
+    "pokemonType": [
+      "poison",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "뚜벅쵸",
+    "pokemonType": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "냄새꼬",
+    "pokemonType": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "라플레시아",
+    "pokemonType": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "파라스",
+    "pokemonType": [
+      "bug",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "파라섹트",
+    "pokemonType": [
+      "bug",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "콘팡",
+    "pokemonType": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "도나리",
+    "pokemonType": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "디그다",
+    "pokemonType": [
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "닥트리오",
+    "pokemonType": [
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "나옹",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "페르시온",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "고라파덕",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "골덕",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "망키",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "성원숭",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "가디",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "윈디",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "발챙이",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "슈륙챙이",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "강챙이",
+    "pokemonType": [
+      "water",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "캐이시",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "윤겔라",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "후딘",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "알통몬",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "근육몬",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "괴력몬",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "모다피",
+    "pokemonType": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "우츠동",
+    "pokemonType": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "우츠보트",
+    "pokemonType": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "왕눈해",
+    "pokemonType": [
+      "water",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "독파리",
+    "pokemonType": [
+      "water",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "꼬마돌",
+    "pokemonType": [
+      "rock",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "데구리",
+    "pokemonType": [
+      "rock",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "딱구리",
+    "pokemonType": [
+      "rock",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "포니타",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "날쌩마",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "야돈",
+    "pokemonType": [
+      "water",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "야도란",
+    "pokemonType": [
+      "water",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "코일",
+    "pokemonType": [
+      "electric",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "레어코일",
+    "pokemonType": [
+      "electric",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "두두",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "두트리오",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "쥬쥬",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "쥬레곤",
+    "pokemonType": [
+      "water",
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "질퍽이",
+    "pokemonType": [
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "질뻐기",
+    "pokemonType": [
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "셀러",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "파르셀",
+    "pokemonType": [
+      "water",
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "고오스",
+    "pokemonType": [
+      "ghost",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "고우스트",
+    "pokemonType": [
+      "ghost",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "팬텀",
+    "pokemonType": [
+      "ghost",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "롱스톤",
+    "pokemonType": [
+      "rock",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "슬리프",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "슬리퍼",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "크랩",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "킹크랩",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "찌리리공",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "붐볼",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "아라리",
+    "pokemonType": [
+      "grass",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "나시",
+    "pokemonType": [
+      "grass",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "탕구리",
+    "pokemonType": [
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "텅구리",
+    "pokemonType": [
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "시라소몬",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "홍수몬",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "내루미",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "또가스",
+    "pokemonType": [
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "또도가스",
+    "pokemonType": [
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "뿔카노",
+    "pokemonType": [
+      "ground",
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "코뿌리",
+    "pokemonType": [
+      "ground",
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "럭키",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "덩쿠리",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "캥카",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "쏘드라",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "시드라",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "콘치",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "왕콘치",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "별가사리",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "아쿠스타",
+    "pokemonType": [
+      "water",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "스라크",
+    "pokemonType": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "루주라",
+    "pokemonType": [
+      "ice",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "에레브",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "마그마",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "쁘사이저",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "켄타로스",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "잉어킹",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "갸라도스",
+    "pokemonType": [
+      "water",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "라프라스",
+    "pokemonType": [
+      "water",
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "메타몽",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "이브이",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "샤미드",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "쥬피썬더",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "부스터",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "폴리곤",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "암나이트",
+    "pokemonType": [
+      "rock",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "암스타",
+    "pokemonType": [
+      "rock",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "투구",
+    "pokemonType": [
+      "rock",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "투구푸스",
+    "pokemonType": [
+      "rock",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "프테라",
+    "pokemonType": [
+      "rock",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "잠만보",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "프리져",
+    "pokemonType": [
+      "ice",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "썬더",
+    "pokemonType": [
+      "electric",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "파이어",
+    "pokemonType": [
+      "fire",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "미뇽",
+    "pokemonType": [
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "신뇽",
+    "pokemonType": [
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "망나뇽",
+    "pokemonType": [
+      "dragon",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "뮤츠",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "뮤",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "치코리타",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "베이리프",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "메가니움",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "브케인",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "마그케인",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "블레이범",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "리아코",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "엘리게이",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "장크로다일",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "꼬리선",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "다꼬리",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "부우부",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "야부엉",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "레디바",
+    "pokemonType": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "레디안",
+    "pokemonType": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "페이검",
+    "pokemonType": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "아리아도스",
+    "pokemonType": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "크로뱃",
+    "pokemonType": [
+      "poison",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "초라기",
+    "pokemonType": [
+      "water",
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "랜턴",
+    "pokemonType": [
+      "water",
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "피츄",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "삐",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "푸푸린",
+    "pokemonType": [
+      "normal",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "토게피",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "토게틱",
+    "pokemonType": [
+      "fairy",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "네이티",
+    "pokemonType": [
+      "psychic",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "네이티오",
+    "pokemonType": [
+      "psychic",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "메리프",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "보송송",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "전룡",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "아르코",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "마릴",
+    "pokemonType": [
+      "water",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "마릴리",
+    "pokemonType": [
+      "water",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "꼬지모",
+    "pokemonType": [
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "왕구리",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "통통코",
+    "pokemonType": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "두코",
+    "pokemonType": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "솜솜코",
+    "pokemonType": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "에이팜",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "해너츠",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "해루미",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "왕자리",
+    "pokemonType": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "우파",
+    "pokemonType": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "누오",
+    "pokemonType": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "에브이",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "블래키",
+    "pokemonType": [
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "니로우",
+    "pokemonType": [
+      "dark",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "야도킹",
+    "pokemonType": [
+      "water",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "무우마",
+    "pokemonType": [
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "안농",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "마자용",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "키링키",
+    "pokemonType": [
+      "normal",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "피콘",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "쏘콘",
+    "pokemonType": [
+      "bug",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "노고치",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "글라이거",
+    "pokemonType": [
+      "ground",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "강철톤",
+    "pokemonType": [
+      "steel",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "블루",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "그랑블루",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "침바루",
+    "pokemonType": [
+      "water",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "핫삼",
+    "pokemonType": [
+      "bug",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "단단지",
+    "pokemonType": [
+      "bug",
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "헤라크로스",
+    "pokemonType": [
+      "bug",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "포푸니",
+    "pokemonType": [
+      "dark",
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "깜지곰",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "링곰",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "마그마그",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "마그카르고",
+    "pokemonType": [
+      "fire",
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "꾸꾸리",
+    "pokemonType": [
+      "ice",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "메꾸리",
+    "pokemonType": [
+      "ice",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "코산호",
+    "pokemonType": [
+      "water",
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "총어",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "대포무노",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "딜리버드",
+    "pokemonType": [
+      "ice",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "만타인",
+    "pokemonType": [
+      "water",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "무장조",
+    "pokemonType": [
+      "steel",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "델빌",
+    "pokemonType": [
+      "dark",
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "헬가",
+    "pokemonType": [
+      "dark",
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "킹드라",
+    "pokemonType": [
+      "water",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "코코리",
+    "pokemonType": [
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "코리갑",
+    "pokemonType": [
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "폴리곤2",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "노라키",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "루브도",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "배루키",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "카포에라",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "뽀뽀라",
+    "pokemonType": [
+      "ice",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "에레키드",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "마그비",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "밀탱크",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "해피너스",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "라이코",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "앤테이",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "스이쿤",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "애버라스",
+    "pokemonType": [
+      "rock",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "데기라스",
+    "pokemonType": [
+      "rock",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "마기라스",
+    "pokemonType": [
+      "rock",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "루기아",
+    "pokemonType": [
+      "psychic",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "칠색조",
+    "pokemonType": [
+      "fire",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "세레비",
+    "pokemonType": [
+      "psychic",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "나무지기",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "나무돌이",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "나무킹",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "아차모",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "영치코",
+    "pokemonType": [
+      "fire",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "번치코",
+    "pokemonType": [
+      "fire",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "물짱이",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "늪짱이",
+    "pokemonType": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "대짱이",
+    "pokemonType": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "포챠나",
+    "pokemonType": [
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "그라에나",
+    "pokemonType": [
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "지그제구리",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "직구리",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "개무소",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "실쿤",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "뷰티플라이",
+    "pokemonType": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "카스쿤",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "독케일",
+    "pokemonType": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "연꽃몬",
+    "pokemonType": [
+      "water",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "로토스",
+    "pokemonType": [
+      "water",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "로파파",
+    "pokemonType": [
+      "water",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "도토링",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "잎새코",
+    "pokemonType": [
+      "grass",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "다탱구",
+    "pokemonType": [
+      "grass",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "테일로",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "스왈로",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "갈모매",
+    "pokemonType": [
+      "water",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "패리퍼",
+    "pokemonType": [
+      "water",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "랄토스",
+    "pokemonType": [
+      "psychic",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "킬리아",
+    "pokemonType": [
+      "psychic",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "가디안",
+    "pokemonType": [
+      "psychic",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "비구술",
+    "pokemonType": [
+      "bug",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "비나방",
+    "pokemonType": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "버섯꼬",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "버섯모",
+    "pokemonType": [
+      "grass",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "게을로",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "발바로",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "게을킹",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "토중몬",
+    "pokemonType": [
+      "bug",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "아이스크",
+    "pokemonType": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "껍질몬",
+    "pokemonType": [
+      "bug",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "소곤룡",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "노공룡",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "폭음룡",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "마크탕",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "하리뭉",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "루리리",
+    "pokemonType": [
+      "normal",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "코코파스",
+    "pokemonType": [
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "에나비",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "델케티",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "깜까미",
+    "pokemonType": [
+      "dark",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "입치트",
+    "pokemonType": [
+      "steel",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "가보리",
+    "pokemonType": [
+      "steel",
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "갱도라",
+    "pokemonType": [
+      "steel",
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "보스로라",
+    "pokemonType": [
+      "steel",
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "요가랑",
+    "pokemonType": [
+      "fighting",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "요가램",
+    "pokemonType": [
+      "fighting",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "썬더라이",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "썬더볼트",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "플러시",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "마이농",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "볼비트",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "네오비트",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "로젤리아",
+    "pokemonType": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "꼴깍몬",
+    "pokemonType": [
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "꿀꺽몬",
+    "pokemonType": [
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "샤프니아",
+    "pokemonType": [
+      "water",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "샤크니아",
+    "pokemonType": [
+      "water",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "고래왕자",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "고래왕",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "둔타",
+    "pokemonType": [
+      "fire",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "폭타",
+    "pokemonType": [
+      "fire",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "코터스",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "피그점프",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "피그킹",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "얼루기",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "톱치",
+    "pokemonType": [
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "비브라바",
+    "pokemonType": [
+      "ground",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "플라이곤",
+    "pokemonType": [
+      "ground",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "선인왕",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "밤선인",
+    "pokemonType": [
+      "grass",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "파비코",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "파비코리",
+    "pokemonType": [
+      "dragon",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "쟝고",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "세비퍼",
+    "pokemonType": [
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "루나톤",
+    "pokemonType": [
+      "rock",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "솔록",
+    "pokemonType": [
+      "rock",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "미꾸리",
+    "pokemonType": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "메깅",
+    "pokemonType": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "가재군",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "가재장군",
+    "pokemonType": [
+      "water",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "오뚝군",
+    "pokemonType": [
+      "ground",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "점토도리",
+    "pokemonType": [
+      "ground",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "릴링",
+    "pokemonType": [
+      "rock",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "릴리요",
+    "pokemonType": [
+      "rock",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "아노딥스",
+    "pokemonType": [
+      "rock",
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "아말도",
+    "pokemonType": [
+      "rock",
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "빈티나",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "밀로틱",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "캐스퐁",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "켈리몬",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "어둠대신",
+    "pokemonType": [
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "다크펫",
+    "pokemonType": [
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "해골몽",
+    "pokemonType": [
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "미라몽",
+    "pokemonType": [
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "트로피우스",
+    "pokemonType": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "치렁",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "앱솔",
+    "pokemonType": [
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "마자",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "눈꼬마",
+    "pokemonType": [
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "얼음귀신",
+    "pokemonType": [
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "대굴레오",
+    "pokemonType": [
+      "ice",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "씨레오",
+    "pokemonType": [
+      "ice",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "씨카이저",
+    "pokemonType": [
+      "ice",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "진주몽",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "헌테일",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "분홍장이",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "시라칸",
+    "pokemonType": [
+      "water",
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "사랑동이",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "아공이",
+    "pokemonType": [
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "쉘곤",
+    "pokemonType": [
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "보만다",
+    "pokemonType": [
+      "dragon",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "메탕",
+    "pokemonType": [
+      "steel",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "메탕구",
+    "pokemonType": [
+      "steel",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "메타그로스",
+    "pokemonType": [
+      "steel",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "레지락",
+    "pokemonType": [
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "레지아이스",
+    "pokemonType": [
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "레지스틸",
+    "pokemonType": [
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "라티아스",
+    "pokemonType": [
+      "dragon",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "라티오스",
+    "pokemonType": [
+      "dragon",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "가이오가",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "그란돈",
+    "pokemonType": [
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "레쿠쟈",
+    "pokemonType": [
+      "dragon",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "지라치",
+    "pokemonType": [
+      "steel",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "모부기",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "수풀부기",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "토대부기",
+    "pokemonType": [
+      "grass",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "불꽃숭이",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "파이숭이",
+    "pokemonType": [
+      "fire",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "초염몽",
+    "pokemonType": [
+      "fire",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "팽도리",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "팽태자",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "엠페르트",
+    "pokemonType": [
+      "water",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "찌르꼬",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "찌르버드",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "찌르호크",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "비버니",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "비버통",
+    "pokemonType": [
+      "normal",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "귀뚤뚜기",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "귀뚤톡크",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "꼬링크",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "럭시오",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "렌트라",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "꼬몽울",
+    "pokemonType": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "로즈레이드",
+    "pokemonType": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "두개도스",
+    "pokemonType": [
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "램펄드",
+    "pokemonType": [
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "방패톱스",
+    "pokemonType": [
+      "rock",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "바리톱스",
+    "pokemonType": [
+      "rock",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "도롱충이",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "나메일",
+    "pokemonType": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "세꿀버리",
+    "pokemonType": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "비퀸",
+    "pokemonType": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "파치리스",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "브이젤",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "플로젤",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "체리버",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "체리꼬",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "깝질무",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "트리토돈",
+    "pokemonType": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "겟핸보숭",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "흔들풍손",
+    "pokemonType": [
+      "ghost",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "둥실라이드",
+    "pokemonType": [
+      "ghost",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "이어롤",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "이어롭",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "무우마직",
+    "pokemonType": [
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "돈크로우",
+    "pokemonType": [
+      "dark",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "나옹마",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "몬냥이",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "랑딸랑",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "스컹뿡",
+    "pokemonType": [
+      "poison",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "스컹탱크",
+    "pokemonType": [
+      "poison",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "동미러",
+    "pokemonType": [
+      "steel",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "동탁군",
+    "pokemonType": [
+      "steel",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "꼬지지",
+    "pokemonType": [
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "핑복",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "페라페",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "화강돌",
+    "pokemonType": [
+      "ghost",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "딥상어동",
+    "pokemonType": [
+      "dragon",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "한바이트",
+    "pokemonType": [
+      "dragon",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "한카리아스",
+    "pokemonType": [
+      "dragon",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "먹고자",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "리오르",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "루카리오",
+    "pokemonType": [
+      "fighting",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "히포포타스",
+    "pokemonType": [
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "하마돈",
+    "pokemonType": [
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "스콜피",
+    "pokemonType": [
+      "poison",
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "드래피온",
+    "pokemonType": [
+      "poison",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "삐딱구리",
+    "pokemonType": [
+      "poison",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "독개굴",
+    "pokemonType": [
+      "poison",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "무스틈니",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "형광어",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "네오라이트",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "타만타",
+    "pokemonType": [
+      "water",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "눈쓰개",
+    "pokemonType": [
+      "grass",
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "눈설왕",
+    "pokemonType": [
+      "grass",
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "포푸니라",
+    "pokemonType": [
+      "dark",
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "자포코일",
+    "pokemonType": [
+      "electric",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "내룸벨트",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "거대코뿌리",
+    "pokemonType": [
+      "ground",
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "덩쿠림보",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "에레키블",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "마그마번",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "토게키스",
+    "pokemonType": [
+      "fairy",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "메가자리",
+    "pokemonType": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "리피아",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "글레이시아",
+    "pokemonType": [
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "글라이온",
+    "pokemonType": [
+      "ground",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "맘모꾸리",
+    "pokemonType": [
+      "ice",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "폴리곤Z",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "엘레이드",
+    "pokemonType": [
+      "psychic",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "대코파스",
+    "pokemonType": [
+      "rock",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "야느와르몽",
+    "pokemonType": [
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "눈여아",
+    "pokemonType": [
+      "ice",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "로토무",
+    "pokemonType": [
+      "electric",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "유크시",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "엠라이트",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "아그놈",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "디아루가",
+    "pokemonType": [
+      "steel",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "펄기아",
+    "pokemonType": [
+      "water",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "히드런",
+    "pokemonType": [
+      "fire",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "레지기가스",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "크레세리아",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "피오네",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "마나피",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "다크라이",
+    "pokemonType": [
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "아르세우스",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "비크티니",
+    "pokemonType": [
+      "psychic",
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "주리비얀",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "샤비",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "샤로다",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "뚜꾸리",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "차오꿀",
+    "pokemonType": [
+      "fire",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "염무왕",
+    "pokemonType": [
+      "fire",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "수댕이",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "쌍검자비",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "대검귀",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "보르쥐",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "보르그",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "요테리",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "하데리어",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "바랜드",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "쌔비냥",
+    "pokemonType": [
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "레파르다스",
+    "pokemonType": [
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "야나프",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "야나키",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "바오프",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "바오키",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "앗차프",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "앗차키",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "몽나",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "몽얌나",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "콩둘기",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "유토브",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "켄호로우",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "줄뮤마",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "제브라이카",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "단굴",
+    "pokemonType": [
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "암트르",
+    "pokemonType": [
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "기가이어스",
+    "pokemonType": [
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "또르박쥐",
+    "pokemonType": [
+      "psychic",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "맘박쥐",
+    "pokemonType": [
+      "psychic",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "두더류",
+    "pokemonType": [
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "몰드류",
+    "pokemonType": [
+      "ground",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "다부니",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "으랏차",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "토쇠골",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "노보청",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "동챙이",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "두까비",
+    "pokemonType": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "두빅굴",
+    "pokemonType": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "던지미",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "타격귀",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "두르보",
+    "pokemonType": [
+      "bug",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "두르쿤",
+    "pokemonType": [
+      "bug",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "모아머",
+    "pokemonType": [
+      "bug",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "마디네",
+    "pokemonType": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "휠구",
+    "pokemonType": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "펜드라",
+    "pokemonType": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "소미안",
+    "pokemonType": [
+      "grass",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "엘풍",
+    "pokemonType": [
+      "grass",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "치릴리",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "드레디어",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "깜눈크",
+    "pokemonType": [
+      "ground",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "악비르",
+    "pokemonType": [
+      "ground",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "악비아르",
+    "pokemonType": [
+      "ground",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "달막화",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "마라카치",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "돌살이",
+    "pokemonType": [
+      "bug",
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "암팰리스",
+    "pokemonType": [
+      "bug",
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "곤율랭",
+    "pokemonType": [
+      "dark",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "곤율거니",
+    "pokemonType": [
+      "dark",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "심보러",
+    "pokemonType": [
+      "psychic",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "데스마스",
+    "pokemonType": [
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "데스니칸",
+    "pokemonType": [
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "프로토가",
+    "pokemonType": [
+      "water",
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "늑골라",
+    "pokemonType": [
+      "water",
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "아켄",
+    "pokemonType": [
+      "rock",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "아케오스",
+    "pokemonType": [
+      "rock",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "깨봉이",
+    "pokemonType": [
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "더스트나",
+    "pokemonType": [
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "조로아",
+    "pokemonType": [
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "조로아크",
+    "pokemonType": [
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "치라미",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "치라치노",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "고디탱",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "고디보미",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "고디모아젤",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "유니란",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "듀란",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "란쿨루스",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "꼬지보리",
+    "pokemonType": [
+      "water",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "스완나",
+    "pokemonType": [
+      "water",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "바닐프티",
+    "pokemonType": [
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "바닐리치",
+    "pokemonType": [
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "배바닐라",
+    "pokemonType": [
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "사철록",
+    "pokemonType": [
+      "normal",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "바라철록",
+    "pokemonType": [
+      "normal",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "에몽가",
+    "pokemonType": [
+      "electric",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "딱정곤",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "슈바르고",
+    "pokemonType": [
+      "bug",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "깜놀버슬",
+    "pokemonType": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "뽀록나",
+    "pokemonType": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "탱그릴",
+    "pokemonType": [
+      "water",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "탱탱겔",
+    "pokemonType": [
+      "water",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "맘복치",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "파쪼옥",
+    "pokemonType": [
+      "bug",
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "전툴라",
+    "pokemonType": [
+      "bug",
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "철시드",
+    "pokemonType": [
+      "grass",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "너트령",
+    "pokemonType": [
+      "grass",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "기어르",
+    "pokemonType": [
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "기기어르",
+    "pokemonType": [
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "기기기어르",
+    "pokemonType": [
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "저리어",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "저리릴",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "저리더프",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "리그레",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "벰크",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "불켜미",
+    "pokemonType": [
+      "ghost",
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "램프라",
+    "pokemonType": [
+      "ghost",
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "샹델라",
+    "pokemonType": [
+      "ghost",
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "터검니",
+    "pokemonType": [
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "액슨도",
+    "pokemonType": [
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "액스라이즈",
+    "pokemonType": [
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "코고미",
+    "pokemonType": [
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "툰베어",
+    "pokemonType": [
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "프리지오",
+    "pokemonType": [
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "쪼마리",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "어지리더",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "메더",
+    "pokemonType": [
+      "ground",
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "비조푸",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "비조도",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "크리만",
+    "pokemonType": [
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "골비람",
+    "pokemonType": [
+      "ground",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "골루그",
+    "pokemonType": [
+      "ground",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "자망칼",
+    "pokemonType": [
+      "dark",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "절각참",
+    "pokemonType": [
+      "dark",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "버프론",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "수리둥보",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "워글",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "벌차이",
+    "pokemonType": [
+      "dark",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "버랜지나",
+    "pokemonType": [
+      "dark",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "앤티골",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "아이앤트",
+    "pokemonType": [
+      "bug",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "모노두",
+    "pokemonType": [
+      "dark",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "디헤드",
+    "pokemonType": [
+      "dark",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "삼삼드래",
+    "pokemonType": [
+      "dark",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "활화르바",
+    "pokemonType": [
+      "bug",
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "불카모스",
+    "pokemonType": [
+      "bug",
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "코바르온",
+    "pokemonType": [
+      "steel",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "테라키온",
+    "pokemonType": [
+      "rock",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "비리디온",
+    "pokemonType": [
+      "grass",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "레시라무",
+    "pokemonType": [
+      "dragon",
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "제크로무",
+    "pokemonType": [
+      "dragon",
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "큐레무",
+    "pokemonType": [
+      "dragon",
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "게노세크트",
+    "pokemonType": [
+      "bug",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "도치마론",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "도치보구",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "브리가론",
+    "pokemonType": [
+      "grass",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "푸호꼬",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "테르나",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "마폭시",
+    "pokemonType": [
+      "fire",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "개구마르",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "개굴반장",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "개굴닌자",
+    "pokemonType": [
+      "water",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "파르빗",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "파르토",
+    "pokemonType": [
+      "normal",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "화살꼬빈",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "불화살빈",
+    "pokemonType": [
+      "fire",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "파이어로",
+    "pokemonType": [
+      "fire",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "분이벌레",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "분떠도리",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "비비용",
+    "pokemonType": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "레오꼬",
+    "pokemonType": [
+      "fire",
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "화염레오",
+    "pokemonType": [
+      "fire",
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "플라엣테",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "플라제스",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "메이클",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "고고트",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "판짱",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "부란다",
+    "pokemonType": [
+      "fighting",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "트리미앙",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "냐스퍼",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "단칼빙",
+    "pokemonType": [
+      "steel",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "쌍검킬",
+    "pokemonType": [
+      "steel",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "슈쁘",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "프레프티르",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "나룸퍼프",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "나루림",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "오케이징",
+    "pokemonType": [
+      "dark",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "칼라마네로",
+    "pokemonType": [
+      "dark",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "거북손손",
+    "pokemonType": [
+      "rock",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "거북손데스",
+    "pokemonType": [
+      "rock",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "수레기",
+    "pokemonType": [
+      "poison",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "드래캄",
+    "pokemonType": [
+      "poison",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "완철포",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "블로스터",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "목도리키텔",
+    "pokemonType": [
+      "electric",
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "일레도리자드",
+    "pokemonType": [
+      "electric",
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "티고라스",
+    "pokemonType": [
+      "rock",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "견고라스",
+    "pokemonType": [
+      "rock",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "아마루스",
+    "pokemonType": [
+      "rock",
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "아마루르가",
+    "pokemonType": [
+      "rock",
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "님피아",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "루차불",
+    "pokemonType": [
+      "fighting",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "데덴네",
+    "pokemonType": [
+      "electric",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "멜리시",
+    "pokemonType": [
+      "rock",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "미끄메라",
+    "pokemonType": [
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "미끄네일",
+    "pokemonType": [
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "미끄래곤",
+    "pokemonType": [
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "클레피",
+    "pokemonType": [
+      "steel",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "나목령",
+    "pokemonType": [
+      "ghost",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "대로트",
+    "pokemonType": [
+      "ghost",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "꽁어름",
+    "pokemonType": [
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "크레베이스",
+    "pokemonType": [
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "음뱃",
+    "pokemonType": [
+      "flying",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "음번",
+    "pokemonType": [
+      "flying",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "제르네아스",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "이벨타르",
+    "pokemonType": [
+      "dark",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "디안시",
+    "pokemonType": [
+      "rock",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "후파",
+    "pokemonType": [
+      "psychic",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "볼케니온",
+    "pokemonType": [
+      "fire",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "나몰빼미",
+    "pokemonType": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "빼미스로우",
+    "pokemonType": [
+      "grass",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "모크나이퍼",
+    "pokemonType": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "냐오불",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "냐오히트",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "어흥염",
+    "pokemonType": [
+      "fire",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "누리공",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "키요공",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "누리레느",
+    "pokemonType": [
+      "water",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "콕코구리",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "크라파",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "왕큰부리",
+    "pokemonType": [
+      "normal",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "영구스",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "형사구스",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "턱지충이",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "전지충이",
+    "pokemonType": [
+      "bug",
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "투구뿌논",
+    "pokemonType": [
+      "bug",
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "오기지게",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "모단단게",
+    "pokemonType": [
+      "fighting",
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "에블리",
+    "pokemonType": [
+      "bug",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "에리본",
+    "pokemonType": [
+      "bug",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "암멍이",
+    "pokemonType": [
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "시마사리",
+    "pokemonType": [
+      "poison",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "더시마사리",
+    "pokemonType": [
+      "poison",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "머드나기",
+    "pokemonType": [
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "만마드",
+    "pokemonType": [
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "물거미",
+    "pokemonType": [
+      "water",
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "깨비물거미",
+    "pokemonType": [
+      "water",
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "짜랑랑",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "라란티스",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "자마슈",
+    "pokemonType": [
+      "grass",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "마셰이드",
+    "pokemonType": [
+      "grass",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "야도뇽",
+    "pokemonType": [
+      "poison",
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "염뉴트",
+    "pokemonType": [
+      "poison",
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "포곰곰",
+    "pokemonType": [
+      "normal",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "이븐곰",
+    "pokemonType": [
+      "normal",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "달콤아",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "달무리나",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "달코퀸",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "큐아링",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "하랑우탄",
+    "pokemonType": [
+      "normal",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "내던숭이",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "꼬시레",
+    "pokemonType": [
+      "bug",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "갑주무사",
+    "pokemonType": [
+      "bug",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "모래꿍",
+    "pokemonType": [
+      "ghost",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "모래성이당",
+    "pokemonType": [
+      "ghost",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "해무기",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "실버디",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "자말라",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "폭거북스",
+    "pokemonType": [
+      "fire",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "토게데마루",
+    "pokemonType": [
+      "electric",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "치갈기",
+    "pokemonType": [
+      "water",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "할비롱",
+    "pokemonType": [
+      "normal",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "타타륜",
+    "pokemonType": [
+      "ghost",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "짜랑꼬",
+    "pokemonType": [
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "짜랑고우",
+    "pokemonType": [
+      "dragon",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "짜랑고우거",
+    "pokemonType": [
+      "dragon",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "코스모그",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "코스모움",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "솔가레오",
+    "pokemonType": [
+      "psychic",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "루나아라",
+    "pokemonType": [
+      "psychic",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "텅비드",
+    "pokemonType": [
+      "rock",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "매시붕",
+    "pokemonType": [
+      "bug",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "페로코체",
+    "pokemonType": [
+      "bug",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "전수목",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "철화구야",
+    "pokemonType": [
+      "steel",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "종이신도",
+    "pokemonType": [
+      "grass",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "악식킹",
+    "pokemonType": [
+      "dark",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "네크로즈마",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "마기아나",
+    "pokemonType": [
+      "steel",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "마샤도",
+    "pokemonType": [
+      "fighting",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "베베놈",
+    "pokemonType": [
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "아고용",
+    "pokemonType": [
+      "poison",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "차곡차곡",
+    "pokemonType": [
+      "rock",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "두파팡",
+    "pokemonType": [
+      "fire",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "제라오라",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "멜탄",
+    "pokemonType": [
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "멜메탈",
+    "pokemonType": [
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "흥나숭",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "채키몽",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "고릴타",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "염버니",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "래비풋",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "에이스번",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "울머기",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "누겔레온",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "인텔리레온",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "탐리스",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "요씽리스",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "파라꼬",
+    "pokemonType": [
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "파크로우",
+    "pokemonType": [
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "아머까오",
+    "pokemonType": [
+      "flying",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "두루지벌레",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "레돔벌레",
+    "pokemonType": [
+      "bug",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "이올브",
+    "pokemonType": [
+      "bug",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "훔처우",
+    "pokemonType": [
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "폭슬라이",
+    "pokemonType": [
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "꼬모카",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "백솜모카",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "우르",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "배우르",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "깨물부기",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "갈가부기",
+    "pokemonType": [
+      "water",
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "멍파치",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "펄스멍",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "탄동",
+    "pokemonType": [
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "탄차곤",
+    "pokemonType": [
+      "rock",
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "석탄산",
+    "pokemonType": [
+      "rock",
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "과사삭벌레",
+    "pokemonType": [
+      "grass",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "애프룡",
+    "pokemonType": [
+      "grass",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "단지래플",
+    "pokemonType": [
+      "grass",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "모래뱀",
+    "pokemonType": [
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "사다이사",
+    "pokemonType": [
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "윽우지",
+    "pokemonType": [
+      "flying",
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "찌로꼬치",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "꼬치조",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "일레즌",
+    "pokemonType": [
+      "electric",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "태우지네",
+    "pokemonType": [
+      "fire",
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "다태우지네",
+    "pokemonType": [
+      "fire",
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "때때무노",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "케오퍼스",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "데인차",
+    "pokemonType": [
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "포트데스",
+    "pokemonType": [
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "몸지브림",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "손지브림",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "브리무음",
+    "pokemonType": [
+      "psychic",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "메롱꿍",
+    "pokemonType": [
+      "dark",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "쏘겨모",
+    "pokemonType": [
+      "dark",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "오롱털",
+    "pokemonType": [
+      "dark",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "가로막구리",
+    "pokemonType": [
+      "dark",
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "나이킹",
+    "pokemonType": [
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "산호르곤",
+    "pokemonType": [
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "데스판",
+    "pokemonType": [
+      "ground",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "마빌크",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "마휘핑",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "대여르",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "찌르성게",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "누니머기",
+    "pokemonType": [
+      "ice",
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "모스노우",
+    "pokemonType": [
+      "ice",
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "돌헨진",
+    "pokemonType": [
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "끼리동",
+    "pokemonType": [
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "대왕끼리동",
+    "pokemonType": [
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "파치래곤",
+    "pokemonType": [
+      "electric",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "파치르돈",
+    "pokemonType": [
+      "electric",
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "어래곤",
+    "pokemonType": [
+      "water",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "어치르돈",
+    "pokemonType": [
+      "water",
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "두랄루돈",
+    "pokemonType": [
+      "steel",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "드라꼰",
+    "pokemonType": [
+      "dragon",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "드래런치",
+    "pokemonType": [
+      "dragon",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "드래펄트",
+    "pokemonType": [
+      "dragon",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "자시안",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "자마젠타",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "무한다이노",
+    "pokemonType": [
+      "poison",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "치고마",
+    "pokemonType": [
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "자루도",
+    "pokemonType": [
+      "dark",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "레지에레키",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "레지드래고",
+    "pokemonType": [
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "블리자포스",
+    "pokemonType": [
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "레이스포스",
+    "pokemonType": [
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "버드렉스",
+    "pokemonType": [
+      "psychic",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "신비록",
+    "pokemonType": [
+      "normal",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "사마자르",
+    "pokemonType": [
+      "bug",
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "다투곰",
+    "pokemonType": [
+      "ground",
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "포푸니크",
+    "pokemonType": [
+      "fighting",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "장침바루",
+    "pokemonType": [
+      "dark",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "나오하",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "나로테",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "마스카나",
+    "pokemonType": [
+      "grass",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "뜨아거",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "악뜨거",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "라우드본",
+    "pokemonType": [
+      "fire",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "꾸왁스",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "아꾸왁",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "웨이니발",
+    "pokemonType": [
+      "water",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "맛보돈",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "타랜툴라",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "트래피더",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "콩알뚜기",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "엑스레그",
+    "pokemonType": [
+      "bug",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "빠모",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "빠모트",
+    "pokemonType": [
+      "electric",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "빠르모트",
+    "pokemonType": [
+      "electric",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "두리쥐",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "쫀도기",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "바우첼",
+    "pokemonType": [
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "미니브",
+    "pokemonType": [
+      "grass",
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "올리뇨",
+    "pokemonType": [
+      "grass",
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "올리르바",
+    "pokemonType": [
+      "grass",
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "베베솔트",
+    "pokemonType": [
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "스태솔트",
+    "pokemonType": [
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "콜로솔트",
+    "pokemonType": [
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "카르본",
+    "pokemonType": [
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "카디나르마",
+    "pokemonType": [
+      "fire",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "파라블레이즈",
+    "pokemonType": [
+      "fire",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "빈나두",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "찌리배리",
+    "pokemonType": [
+      "electric"
+    ]
+  },
+  {
+    "pokemonName": "찌리비",
+    "pokemonType": [
+      "electric",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "찌리비크",
+    "pokemonType": [
+      "electric",
+      "flying"
+    ]
+  },
+  {
+    "pokemonName": "오라티프",
+    "pokemonType": [
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "마피티프",
+    "pokemonType": [
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "땃쭈르",
+    "pokemonType": [
+      "poison",
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "태깅구르",
+    "pokemonType": [
+      "poison",
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "그푸리",
+    "pokemonType": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "공푸리",
+    "pokemonType": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "들눈해",
+    "pokemonType": [
+      "ground",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "육파리",
+    "pokemonType": [
+      "ground",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "절벼게",
+    "pokemonType": [
+      "rock"
+    ]
+  },
+  {
+    "pokemonName": "캡싸이",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "스코빌런",
+    "pokemonType": [
+      "grass",
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "구르데",
+    "pokemonType": [
+      "bug"
+    ]
+  },
+  {
+    "pokemonName": "베라카스",
+    "pokemonType": [
+      "bug",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "하느라기",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "클레스퍼트라",
+    "pokemonType": [
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "어리짱",
+    "pokemonType": [
+      "fairy",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "벼리짱",
+    "pokemonType": [
+      "fairy",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "두드리짱",
+    "pokemonType": [
+      "fairy",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "바다그다",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "바닥트리오",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "떨구새",
+    "pokemonType": [
+      "flying",
+      "dark"
+    ]
+  },
+  {
+    "pokemonName": "맨돌핀",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "부르롱",
+    "pokemonType": [
+      "steel",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "부르르룸",
+    "pokemonType": [
+      "steel",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "모토마",
+    "pokemonType": [
+      "dragon",
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "꿈트렁",
+    "pokemonType": [
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "초롱순",
+    "pokemonType": [
+      "rock",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "킬라플로르",
+    "pokemonType": [
+      "rock",
+      "poison"
+    ]
+  },
+  {
+    "pokemonName": "망망이",
+    "pokemonType": [
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "묘두기",
+    "pokemonType": [
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "꼬이밍고",
+    "pokemonType": [
+      "flying",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "터벅고래",
+    "pokemonType": [
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "우락고래",
+    "pokemonType": [
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "가비루사",
+    "pokemonType": [
+      "water",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "어써러셔",
+    "pokemonType": [
+      "water"
+    ]
+  },
+  {
+    "pokemonName": "저승갓숭",
+    "pokemonType": [
+      "fighting",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "토오",
+    "pokemonType": [
+      "poison",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "키키링",
+    "pokemonType": [
+      "normal",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "대도각참",
+    "pokemonType": [
+      "dark",
+      "steel"
+    ]
+  },
+  {
+    "pokemonName": "드니차",
+    "pokemonType": [
+      "dragon",
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "드니꽁",
+    "pokemonType": [
+      "dragon",
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "드닐레이브",
+    "pokemonType": [
+      "dragon",
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "모으령",
+    "pokemonType": [
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "타부자고",
+    "pokemonType": [
+      "steel",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "총지엔",
+    "pokemonType": [
+      "dark",
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "파오젠",
+    "pokemonType": [
+      "dark",
+      "ice"
+    ]
+  },
+  {
+    "pokemonName": "딩루",
+    "pokemonType": [
+      "dark",
+      "ground"
+    ]
+  },
+  {
+    "pokemonName": "위유이",
+    "pokemonType": [
+      "dark",
+      "fire"
+    ]
+  },
+  {
+    "pokemonName": "코라이돈",
+    "pokemonType": [
+      "fighting",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "미라이돈",
+    "pokemonType": [
+      "electric",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "과미르",
+    "pokemonType": [
+      "grass",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "차데스",
+    "pokemonType": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "그우린차",
+    "pokemonType": [
+      "grass",
+      "ghost"
+    ]
+  },
+  {
+    "pokemonName": "조타구",
+    "pokemonType": [
+      "poison",
+      "fighting"
+    ]
+  },
+  {
+    "pokemonName": "이야후",
+    "pokemonType": [
+      "poison",
+      "psychic"
+    ]
+  },
+  {
+    "pokemonName": "기로치",
+    "pokemonType": [
+      "poison",
+      "fairy"
+    ]
+  },
+  {
+    "pokemonName": "오거폰",
+    "pokemonType": [
+      "grass"
+    ]
+  },
+  {
+    "pokemonName": "브리두라스",
+    "pokemonType": [
+      "steel",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "과미드라",
+    "pokemonType": [
+      "grass",
+      "dragon"
+    ]
+  },
+  {
+    "pokemonName": "테라파고스",
+    "pokemonType": [
+      "normal"
+    ]
+  },
+  {
+    "pokemonName": "복숭악동",
+    "pokemonType": [
+      "poison",
+      "ghost"
+    ]
+  }
+]
